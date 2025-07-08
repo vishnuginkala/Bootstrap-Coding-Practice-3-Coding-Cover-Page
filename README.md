@@ -7,7 +7,8 @@ In this assignment, let's build a Coding Cover Page by applying the Bootstrap co
 
 Refer to the below image.
 
-![image](https://github.com/user-attachments/assets/79b400bd-e503-433d-93d9-ba9f4bf38376)
+![image](https://github.com/user-attachments/assets/b939f7ab-b773-41bf-a7eb-5aea3d9e60f2)
+
 
 
 coding-cover-page-to-build
@@ -21,10 +22,9 @@ Try to achieve the design as close as possible.
 Resources
 Use this background image,
 
-![image](https://github.com/user-attachments/assets/cc1f1919-3ab4-464e-adc9-b2b5e28e6830)
-
-
 URL: https://d2clawv67efefq.cloudfront.net/ccbp-static-website/codingbg.png
+
+![image](https://github.com/user-attachments/assets/cc1f1919-3ab4-464e-adc9-b2b5e28e6830)
 
 
 
